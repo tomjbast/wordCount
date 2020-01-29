@@ -8,7 +8,7 @@ Within the repo we have the main wordCount function. This takes two arguments, a
 
 When called the function performs three main things:
 
-String sanistisation  
+String sanitisation  
 Creates an object to count each words occurrences   
 Creates an array to sort the number of occurrences  
  
@@ -41,4 +41,4 @@ npm test
 
 I would like to split the function into smaller parts. This would allow for much more in depth testing, as currently our tests essentially test the whole function. It would also be interesting to learn and understand how to handle one massive line of text, but in this case I've made the assumption the text will be presented to us in lines. 
 
-It was interesting to play with regex again after such a long time and limited exposure on a daya to day basis. And diving into streaming was really interesting and a lot less complex than I anticipated. 
+It was interesting to play with regex again after such a long time and limited exposure on a day a to day basis. And diving into streaming was really interesting and a lot less complex than I anticipated. 
