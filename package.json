@@ -1,0 +1,22 @@
+{
+  "name": "matchesfashion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomjbast/matchesFashion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomjbast/matchesFashion/issues"
+  },
+  "homepage": "https://github.com/tomjbast/matchesFashion#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
